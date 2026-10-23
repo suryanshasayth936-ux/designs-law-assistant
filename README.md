@@ -53,7 +53,57 @@ Expected behaviour: Q3 (trade mark fee) and Q4 (current officeholder vs. the sta
 
 ## Screenshots
 
-Save Streamlit screenshots in `images/` and link them here, e.g. `![Q1](images/q1.png)`.
+Streamlit UI (`streamlit run app.py`): each question shows the answer box (green = grounded, red = `Not found`) and the expanded **Source Reference Chunks** panel with page, chapter and section for every retrieved chunk.
+
+### Q1. How long does a proprietor have copyright in a registered design, and can it be extended?
+
+**Answer**
+
+![Q1 answer](images/q1_answer.png)
+
+**Source reference chunks**
+
+![Q1 sources](images/q1_sources.png)
+
+### Q2. Which classification system is used to register designs?
+
+**Answer**
+
+![Q2 answer](images/q2_answer.png)
+
+**Source reference chunks**
+
+![Q2 sources](images/q2_sources.png)
+
+### Q3. What is the government fee to register a trademark?
+
+**Answer**
+
+![Q3 answer](images/q3_answer.png)
+
+**Source reference chunks**
+
+![Q3 sources](images/q3_sources.png)
+
+### Q4. Who is the current Controller General of Patents?
+
+**Answer**
+
+![Q4 answer](images/q4_answer.png)
+
+**Source reference chunks**
+
+![Q4 sources](images/q4_sources.png)
+
+### Q5. What is the fee to register a design?
+
+**Answer**
+
+![Q5 answer](images/q5_answer.png)
+
+**Source reference chunks**
+
+![Q5 sources](images/q5_sources.png)
 
 ## Files
 
